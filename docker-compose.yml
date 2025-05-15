@@ -1,0 +1,5 @@
+service:
+  test:
+    image: nginx
+    ports:
+      - 28567:80
